@@ -10,6 +10,8 @@ Run the following command to install the necessary dependencies:
 ``` bash
 npm install
 ```
+move the material files to an Assets folder before running the project
+
 ### Running the project
 To start the development server, run the following command:
 
